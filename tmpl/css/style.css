@@ -1,0 +1,163 @@
+.chicago {
+  box-sizing: border-box;
+  font: 13px "Open Sans", Arial;
+  padding: 40px 0;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.container-scm {
+  margin: 0 auto;
+  width: 300px;
+  height: 400px;
+  background-repeat: no-repeat;;
+  border-radius: 2px;
+  position: relative;
+}
+
+.city-title, .city-weather-temperature, .city-weather-description, img.city-weather-icon {
+  text-align: center;
+  margin: auto;
+  display: block;
+}
+
+
+ .city-title {
+    font-size: 26px;
+    padding-top: 24px;
+    font-family: tahoma !important;
+    margin-bottom: 20px;
+    color: #000000;
+}
+
+.content-scm hr {
+  border-top: 1px solid #A3A3A3;
+  border-bottom: 1px solid #626165;
+  width: 112px;
+}
+
+.city-weather-temperature {
+    font-size: 25px;
+    margin-bottom: 10px;
+    font-family: tahoma;
+}
+
+.city-weather-description {
+  width: 98%;
+  margin: auto;
+  text-align: center;
+
+}
+.nav-info-behind {
+  background: rgba(255, 255, 240, 0.65);
+  z-index: -1;
+  height: 130px;
+  width: 360px;
+  position: absolute;
+  bottom: 0;
+}
+
+.nav-info {
+  background: rgba(255, 255, 240, 0.65);
+}
+.nav-info .info {
+  margin-top: 20px;
+  margin-bottom: 24px;
+}
+.nav-info .info .company-name {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+.nav-info .info .address {
+  line-height: 16px;
+  margin-bottom: 6px;
+}
+.nav-info .info .phone {
+  color: #C4A865;
+  font-weight: bold;
+}
+.nav-info img {
+  margin-top: 28px;
+  margin-right: 8px;
+}
+
+.one-half {
+  width: 180px;
+  float: left;
+  padding-left: 20px;
+}
+
+.clearfix:before,
+.clearfix:after,
+.row:before,
+.row:after {
+  content: '\0020';
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+
+.row:after,
+.clearfix:after {
+  clear: both;
+}
+
+.row,
+.clearfix {
+  zoom: 1;
+}
+
+.clear {
+  clear: both;
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+
+.hide {
+  display: none;
+}
+
+#swithc {
+  font-family: tahoma;
+  margin-top: 20px;
+  font-size: 18px;
+    color: #250303;
+    margin-bottom: 10px;
+}
+
+#who {
+    clear: both;
+    margin: 0 auto;
+    width: 95%;
+    min-height: 180px;
+    margin-top: 3px;
+    color: #fff;
+    background: #000000;
+    opacity: 0.5;
+    border-radius: 4px;
+    padding-top: 10px;
+    padding-bottom: 1px;
+    font-family: tahoma;
+}
+
+#who tr {
+      border-bottom: 1px solid #ccc;
+      height: 40px;
+}
+#who td {
+  padding-top: 0;
+}
+.clr {
+  clear: both;
+}
+.scmwh br {
+  display: none !important;
+}
