@@ -1,5 +1,5 @@
 <p dir="rtl" style="text-align: right;"><span style="font-family: tahoma, arial, helvetica, sans-serif;"> </span></p>
-<p dir="rtl" style="text-align: right;"><span style="font-size: 18pt; font-family: tahoma, arial, helvetica, sans-serif;">ماژول نمایش آب و هوای جوملا 3</span></p>
+<p dir="rtl" style="text-align: right;"><span style="font-size: 24pt;"><a href="https://trangell.com/blog/12-%D9%85%D8%A7%DA%98%D9%88%D9%84-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D8%A2%D8%A8-%D9%88-%D9%87%D9%88%D8%A7-%D8%AC%D9%88%D9%85%D9%84%D8%A7-3-scm_weather" rel="alternate">ماژول نمایش آب و هوای جوملا 3</a></span></p>
 <p dir="rtl" style="text-align: right;"><span style="font-family: tahoma, arial, helvetica, sans-serif;">scm_weather</span></p>
 <p dir="rtl" style="text-align: right;"><span style="font-family: tahoma, arial, helvetica, sans-serif;"><img src="https://raw.githubusercontent.com/shahryarjb/scm_weather/master/header-blogo.png" alt="ترانگل" width="336" height="280" /></span></p>
 <p dir="rtl" style="text-align: right;"><span style="font-family: tahoma, arial, helvetica, sans-serif;">این ماژول برای جوملا 3 توسعه یافته و به سرور یاهو متصل می باشد . از دوستانی که می خواهند در این زمینه فعالیت بکنند دعوت به عمل می آوریم که این ماژول ساده رو تبدیل به یک کامپوننت حرفه ای در زمینه آب هوا بکنیم .</span></p>
